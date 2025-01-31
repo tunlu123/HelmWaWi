@@ -53,24 +53,21 @@ Das Programm wird über `main.py` gestartet:
 python main.py
 ```
 
-📤 Änderungen committen und pushen
+## 📤 Änderungen committen und pushen
 
 Nachdem ihr euren Code bearbeitet habt, könnt ihr ihn wieder auf euer GitHub-Repository hochladen:
 
 Alle Änderungen zum Staging hinzufügen:
-
 ```sh
 git add .
 ```
 
 Einen Commit mit einer Nachricht erstellen:
-
 ```sh
 git commit -m "Projekt aktualisiert"
 ```
 
 Die Änderungen auf GitHub pushen:
-
 ```sh
 git push origin main
 ```
