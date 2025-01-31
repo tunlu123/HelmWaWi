@@ -59,15 +59,21 @@ Nachdem ihr euren Code bearbeitet habt, könnt ihr ihn wieder auf euer GitHub-Re
 
 Alle Änderungen zum Staging hinzufügen:
 
+```sh
 git add .
+```
 
 Einen Commit mit einer Nachricht erstellen:
 
+```sh
 git commit -m "Projekt aktualisiert"
+```
 
 Die Änderungen auf GitHub pushen:
 
+```sh
 git push origin main
+```
 
 Falls ihr auf einem anderen Branch arbeitet, ersetzt main mit dem entsprechenden Branch-Namen.
 
