@@ -1,4 +1,4 @@
-from Model import Helm
+from Model.Helm import Helm  # Importiert die Klasse Helm aus dem Modul Helm.py
 
 helme = {
     "Storm Racer": Helm("Storm Racer", "M", 5, 150, "Sport", "Ratsche", "Polycarbonat"),
